@@ -5,8 +5,8 @@ Originally created in **July 2020**.
 ![Showcase of LOWREZ 2020 2](https://github.com/Klehrik/LOWREZ-2020-2.yyp/assets/78520710/6de8dd05-ef99-498a-9f87-2e0e1dffb1b7)
 
 
-One of my ideas for LOWREZ 2020.  
-Superseded by this one.
+One of my ideas for LOWREZ 2020, superseded by this one.  
+I did create a planning doc for this one, detailing a bunch of different weapons and enemies, which is now unused.
 
 Had to be converted from a previous version of GameMaker (before 2.3) so the code may be weird.
 

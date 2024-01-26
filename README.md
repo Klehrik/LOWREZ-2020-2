@@ -9,7 +9,7 @@ One of my ideas for LOWREZ 2020.
 I did create a planning doc for this one, detailing a bunch of different weapons and enemies, which is now unused.
 
 Had to be converted from a previous version of GameMaker (before 2.3) so the code may be weird.  
-I'm unable to upload the game that superseded this one because the converter literally breaks it, so that's unfortunate.
+I'm unable to upload the game that superseded this one because the converter literally breaks it, so that's unfortunate (it was a more strategic game where you controlled multiple ships and had the ability to pause like in FTL).
 
 ---
 

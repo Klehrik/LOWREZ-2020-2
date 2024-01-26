@@ -15,7 +15,7 @@ I'm unable to upload the game that superseded this one because the converter lit
 
 ### Controls
 
-Arrows/WASD - Move
-Z/Q - Weapon 1
-X/E - Weapon 2
-R - Reset
+Arrows/WASD - Move  
+Z/Q - Weapon 1  
+X/E - Weapon 2  
+R - Reset  

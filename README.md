@@ -19,3 +19,4 @@ Arrows/WASD - Move
 Z/Q - Weapon 1  
 X/E - Weapon 2  
 R - Reset  
+F - Fullscreen  
